@@ -1,7 +1,5 @@
 # Medium2 - A Modern Blogging Platform
 
-![Medium2 Banner](https://via.placeholder.com/1200x400.png?text=Medium2+Blogging+Platform)  
-*Crafted with passion by [Dhruveren](https://github.com/Dhruveren)*
 
 ---
 
